@@ -7,10 +7,8 @@ This is a website for restaurant. Many features such as AWS iot /AWS amplify /Dy
 
 
 # To run, simply just go  
-PhPproject8 > index_1.php
+PhPproject8 > index_1.php > right-click  > run
 
-
+# To take note
 Do note that the name of the project should not be changed and database should be downloaded to see the full function of the projects.
-
-
 Port number on wampsever is set to localhost:8080.
