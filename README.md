@@ -21,7 +21,7 @@ Port number on wampsever is set to localhost:8080.
 
 # Setup
 
-(requires Netbeans or any other relevant IDEs) <br>
+<br>(requires Netbeans or any other relevant IDEs) <br>
 
 
 # License
