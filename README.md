@@ -14,7 +14,7 @@ This is a restaurant website made for user to simply order with just a click of 
 
 # To take note
 Do note that the name of the project should not be changed and database should be downloaded to see the full function of the projects.
-Port number on wampsever is set to localhost:8080.
+Port number on wampsever is set to localhost
 
 
 
