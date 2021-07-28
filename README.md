@@ -1,4 +1,4 @@
-# Website
+# Website.
 
 This is a restaurant website made for user to simply order with just a click of a button. It is an informative website and user can also find various information about it.
 
